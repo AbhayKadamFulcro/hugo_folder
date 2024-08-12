@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.124.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Aug 2024 11:51:48 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create using swagger</title>
+      <link>//localhost:1313/post/article-27/</link>
+      <pubDate>Fri, 09 Aug 2024 11:51:48 +0000</pubDate>
+      <guid>//localhost:1313/post/article-27/</guid>
+      <description>string</description>
+    </item>
+    <item>
+      <title>Create using swagger</title>
+      <link>//localhost:1313/post/article-28/</link>
+      <pubDate>Fri, 09 Aug 2024 11:51:48 +0000</pubDate>
+      <guid>//localhost:1313/post/article-28/</guid>
+      <description>string</description>
+    </item>
+    <item>
+      <title>This is created Recently</title>
+      <link>//localhost:1313/post/article-26/</link>
+      <pubDate>Fri, 09 Aug 2024 11:47:31 +0000</pubDate>
+      <guid>//localhost:1313/post/article-26/</guid>
+      <description>Recent Description</description>
+    </item>
+    <item>
+      <title>This is test </title>
+      <link>//localhost:1313/post/article-25/</link>
+      <pubDate>Fri, 09 Aug 2024 11:46:03 +0000</pubDate>
+      <guid>//localhost:1313/post/article-25/</guid>
+      <description>Testing</description>
+    </item>
+    <item>
+      <title>This is latest</title>
+      <link>//localhost:1313/post/article-24/</link>
+      <pubDate>Fri, 09 Aug 2024 11:44:41 +0000</pubDate>
+      <guid>//localhost:1313/post/article-24/</guid>
+      <description>Latest description</description>
+    </item>
+    <item>
+      <title>strdasdasing</title>
+      <link>//localhost:1313/post/article-13/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-13/</guid>
+      <description>dasdasdadsdstring</description>
+    </item>
+    <item>
+      <title>stridasdasdasdng</title>
+      <link>//localhost:1313/post/article-16/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-16/</guid>
+      <description>stringddasdasds</description>
+    </item>
+    <item>
+      <title>stridsadadsadng</title>
+      <link>//localhost:1313/post/article-14/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-14/</guid>
+      <description>stdasdassadring</description>
+    </item>
+    <item>
+      <title>stridsaddasdasdadsadng</title>
+      <link>//localhost:1313/post/article-15/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-15/</guid>
+      <description>stdasdassadring</description>
+    </item>
+    <item>
+      <title>strindasdadasdasdasdsaddg</title>
+      <link>//localhost:1313/post/article-21/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-21/</guid>
+      <description>stringdaddasdads</description>
+    </item>
+    <item>
+      <title>strindasdadasdg</title>
+      <link>//localhost:1313/post/article-19/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-19/</guid>
+      <description>stringdaddasdads</description>
+    </item>
+    <item>
+      <title>strindasdadasdg</title>
+      <link>//localhost:1313/post/article-20/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-20/</guid>
+      <description>stringdaddasdads</description>
+    </item>
+    <item>
+      <title>strindasdsadasg</title>
+      <link>//localhost:1313/post/article-12/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-12/</guid>
+      <description>stringdasdsdadasdd</description>
+    </item>
+    <item>
+      <title>strindasdsddsag</title>
+      <link>//localhost:1313/post/article-22/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-22/</guid>
+      <description>strdasdasdasding</description>
+    </item>
+    <item>
+      <title>strindasdsddsag</title>
+      <link>//localhost:1313/post/article-23/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-23/</guid>
+      <description>strdasdasdasding</description>
+    </item>
+    <item>
+      <title>stringdasdads</title>
+      <link>//localhost:1313/post/article-11/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-11/</guid>
+      <description>stringdasdasddasdasdasd</description>
+    </item>
+    <item>
+      <title>stringDSADASDAS</title>
+      <link>//localhost:1313/post/article-17/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-17/</guid>
+      <description>stringDASDASDASDASD</description>
+    </item>
+    <item>
+      <title>stringDSADASDAS</title>
+      <link>//localhost:1313/post/article-18/</link>
+      <pubDate>Fri, 09 Aug 2024 11:41:44 +0000</pubDate>
+      <guid>//localhost:1313/post/article-18/</guid>
+      <description>stringDASDASDASDASD</description>
+    </item>
+    <item>
+      <title>strdasdasdasding</title>
+      <link>//localhost:1313/post/article-7/</link>
+      <pubDate>Fri, 09 Aug 2024 10:58:04 +0000</pubDate>
+      <guid>//localhost:1313/post/article-7/</guid>
+      <description>stringasdadssdasdsd</description>
+    </item>
+    <item>
+      <title>strindasdsadasg</title>
+      <link>//localhost:1313/post/article-10/</link>
+      <pubDate>Fri, 09 Aug 2024 10:58:04 +0000</pubDate>
+      <guid>//localhost:1313/post/article-10/</guid>
+      <description>stringdasdsdadasdd</description>
+    </item>
+    <item>
+      <title>stringdasdads</title>
+      <link>//localhost:1313/post/article-8/</link>
+      <pubDate>Fri, 09 Aug 2024 10:58:04 +0000</pubDate>
+      <guid>//localhost:1313/post/article-8/</guid>
+      <description>stringdasdasddasdasdasd</description>
+    </item>
+    <item>
+      <title>stringdasdads</title>
+      <link>//localhost:1313/post/article-9/</link>
+      <pubDate>Fri, 09 Aug 2024 10:58:04 +0000</pubDate>
+      <guid>//localhost:1313/post/article-9/</guid>
+      <description>stringdasdasddasdasdasd</description>
+    </item>
+    <item>
+      <title>New Article</title>
+      <link>//localhost:1313/post/article-2/</link>
+      <pubDate>Fri, 09 Aug 2024 10:56:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-2/</guid>
+      <description>New Description</description>
+    </item>
+    <item>
+      <title>New Article  title through loopback</title>
+      <link>//localhost:1313/post/article-3/</link>
+      <pubDate>Fri, 09 Aug 2024 10:56:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-3/</guid>
+      <description>New Article through loopback</description>
+    </item>
+    <item>
+      <title>New Article 1</title>
+      <link>//localhost:1313/post/article-4/</link>
+      <pubDate>Fri, 09 Aug 2024 10:56:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-4/</guid>
+      <description>New Description 1</description>
+    </item>
+    <item>
+      <title>New article title through loopback</title>
+      <link>//localhost:1313/post/article-5/</link>
+      <pubDate>Fri, 09 Aug 2024 10:56:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-5/</guid>
+      <description>New article description through loopback</description>
+    </item>
+    <item>
+      <title>New article title through loopback 1</title>
+      <link>//localhost:1313/post/article-6/</link>
+      <pubDate>Fri, 09 Aug 2024 10:56:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-6/</guid>
+      <description>New article description through loopback1</description>
+    </item>
+    <item>
+      <title>This is title</title>
+      <link>//localhost:1313/post/article-1/</link>
+      <pubDate>Fri, 09 Aug 2024 10:56:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-1/</guid>
+      <description>this is Description</description>
+    </item>
+    <item>
+      <title>First 222</title>
+      <link>//localhost:1313/post/first/</link>
+      <pubDate>Fri, 09 Aug 2024 16:03:00 +0530</pubDate>
+      <guid>//localhost:1313/post/first/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
