@@ -23,6 +23,13 @@
       <description>string</description>
     </item>
     <item>
+      <title>Create using swagger</title>
+      <link>//localhost:1313/post/article-29/</link>
+      <pubDate>Fri, 09 Aug 2024 11:51:48 +0000</pubDate>
+      <guid>//localhost:1313/post/article-29/</guid>
+      <description>string</description>
+    </item>
+    <item>
       <title>This is created Recently</title>
       <link>//localhost:1313/post/article-26/</link>
       <pubDate>Fri, 09 Aug 2024 11:47:31 +0000</pubDate>
