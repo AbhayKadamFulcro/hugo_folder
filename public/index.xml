@@ -6,8 +6,22 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2024 08:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 08:08:06 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This content is generated on 13-08-2024 at 1:37 PM</title>
+      <link>//localhost:1313/post/article-45/</link>
+      <pubDate>Tue, 13 Aug 2024 08:08:06 +0000</pubDate>
+      <guid>//localhost:1313/post/article-45/</guid>
+      <description>This content is generated on 13-08-2024 at 1:37 PM</description>
+    </item>
+    <item>
+      <title>This content is generated on 13-08-2024 at 1:36 PM</title>
+      <link>//localhost:1313/post/article-44/</link>
+      <pubDate>Tue, 13 Aug 2024 08:07:22 +0000</pubDate>
+      <guid>//localhost:1313/post/article-44/</guid>
+      <description>This content is generated on 13-08-2024 at 1:36 PM</description>
+    </item>
     <item>
       <title>This content is created on 12 Aug 2024 1:30PM</title>
       <link>//localhost:1313/post/article-43/</link>
