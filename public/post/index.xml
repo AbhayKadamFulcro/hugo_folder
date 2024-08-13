@@ -6,8 +6,43 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Aug 2024 11:51:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 13:18:50 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>added new Content</title>
+      <link>//localhost:1313/post/article-31/</link>
+      <pubDate>Mon, 12 Aug 2024 13:18:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-31/</guid>
+      <description>added new Discription</description>
+    </item>
+    <item>
+      <title>added new Content</title>
+      <link>//localhost:1313/post/article-32/</link>
+      <pubDate>Mon, 12 Aug 2024 13:18:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-32/</guid>
+      <description>added new Discription</description>
+    </item>
+    <item>
+      <title>Content Title 30</title>
+      <link>//localhost:1313/post/article-33/</link>
+      <pubDate>Mon, 12 Aug 2024 13:18:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-33/</guid>
+      <description>Content description 30</description>
+    </item>
+    <item>
+      <title>Content Title 30</title>
+      <link>//localhost:1313/post/article-34/</link>
+      <pubDate>Mon, 12 Aug 2024 13:18:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-34/</guid>
+      <description>Content description 30</description>
+    </item>
+    <item>
+      <title>Created the new Blog for Testing</title>
+      <link>//localhost:1313/post/article-30/</link>
+      <pubDate>Mon, 12 Aug 2024 13:18:50 +0000</pubDate>
+      <guid>//localhost:1313/post/article-30/</guid>
+      <description>Test description</description>
+    </item>
     <item>
       <title>Create using swagger</title>
       <link>//localhost:1313/post/article-27/</link>
