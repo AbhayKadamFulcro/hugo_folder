@@ -1,6 +1,6 @@
 +++
 title = "All New Post"
-date = "2024-08-13T07:26:06.559Z"
+date = "2024-08-14T09:22:59.340Z"
 draft = false
 +++
 

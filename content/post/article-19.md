@@ -1,6 +1,6 @@
 +++
 title = "strindasdadasdg"
-date = "2024-08-09T11:41:44.260Z"
+date = "2024-08-14T09:22:59.316Z"
 draft = false
 +++
 

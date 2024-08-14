@@ -1,6 +1,6 @@
 +++
 title = "This is test for Hugo"
-date = "2024-08-13T07:23:19.728Z"
+date = "2024-08-14T09:22:59.338Z"
 draft = false
 +++
 
