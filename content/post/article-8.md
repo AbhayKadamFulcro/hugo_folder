@@ -1,6 +1,6 @@
 +++
 title = "This is a content created on 14-08-2024 at 3:35PM"
-date = "2024-08-14T10:16:42.706Z"
+date = "2024-08-14T10:17:24.893Z"
 draft = false
 +++
 
