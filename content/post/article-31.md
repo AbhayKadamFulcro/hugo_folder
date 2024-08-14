@@ -1,6 +1,6 @@
 +++
 title = "added new Content"
-date = "2024-08-14T09:22:59.329Z"
+date = "2024-08-14T09:23:15.186Z"
 draft = false
 +++
 

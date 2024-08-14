@@ -1,6 +1,6 @@
 +++
 title = "New Article  title through loopback"
-date = "2024-08-14T09:22:59.299Z"
+date = "2024-08-14T09:23:15.154Z"
 draft = false
 +++
 
