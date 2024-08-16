@@ -1,6 +1,6 @@
 +++
 title = "Enhancing User Experience with Microinteractions"
-date = "2024-08-16T12:25:46.691Z"
+date = "2024-08-16T12:25:58.685Z"
 draft = false
 +++
 
