@@ -1,6 +1,6 @@
 +++
 title = "Getting Started with Next.js 14"
-date = "2024-08-16T12:23:19.838Z"
+date = "2024-08-16T12:24:25.497Z"
 draft = false
 +++
 
