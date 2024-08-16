@@ -6,61 +6,110 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Aug 2024 12:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 12:15:46 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Beginner&#39;s Guide to TypeScript</title>
       <link>//localhost:1313/post/article-4/</link>
-      <pubDate>Fri, 16 Aug 2024 12:13:59 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
       <guid>//localhost:1313/post/article-4/</guid>
       <description>This guide introduces TypeScript, explaining its benefits over JavaScript and how to get started with it.</description>
     </item>
     <item>
+      <title>Building Accessible Websites: Key Considerations</title>
+      <link>//localhost:1313/post/article-14/</link>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
+      <guid>//localhost:1313/post/article-14/</guid>
+      <description>Discover best practices for making your website accessible to users with disabilities, improving usability for all.</description>
+    </item>
+    <item>
       <title>Building Responsive Layouts with CSS Grid</title>
       <link>//localhost:1313/post/article-5/</link>
-      <pubDate>Fri, 16 Aug 2024 12:13:59 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
       <guid>//localhost:1313/post/article-5/</guid>
       <description>Master the CSS Grid layout system to create responsive and visually appealing web designs.</description>
     </item>
     <item>
+      <title>Continuous Integration and Deployment (CI/CD) Explained</title>
+      <link>//localhost:1313/post/article-15/</link>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
+      <guid>//localhost:1313/post/article-15/</guid>
+      <description>An overview of CI/CD practices, highlighting their importance in modern software development for faster and reliable releases.</description>
+    </item>
+    <item>
+      <title>CSS Variables: A Game-Changer for Web Design</title>
+      <link>//localhost:1313/post/article-12/</link>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
+      <guid>//localhost:1313/post/article-12/</guid>
+      <description>Learn how to use CSS variables to create flexible and maintainable stylesheets in your web projects.</description>
+    </item>
+    <item>
+      <title>Getting Started with Next.js 14</title>
+      <link>//localhost:1313/post/article-10/</link>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
+      <guid>//localhost:1313/post/article-10/</guid>
+      <description>A quick guide to help you kickstart your Next.js 14 project, covering essential features and best practices.</description>
+    </item>
+    <item>
       <title>GraphQL vs REST: Which API Style to Choose?</title>
       <link>//localhost:1313/post/article-9/</link>
-      <pubDate>Fri, 16 Aug 2024 12:13:59 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
       <guid>//localhost:1313/post/article-9/</guid>
       <description>Compare GraphQL and REST, understanding the pros and cons of each API style to make an informed decision.</description>
     </item>
     <item>
       <title>How to Improve Your Website’s SEO in 2024</title>
       <link>//localhost:1313/post/article-3/</link>
-      <pubDate>Fri, 16 Aug 2024 12:13:59 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
       <guid>//localhost:1313/post/article-3/</guid>
       <description>Learn actionable tips and strategies to boost your website’s search engine ranking and drive more organic traffic.</description>
     </item>
     <item>
+      <title>Introduction to Serverless Architecture</title>
+      <link>//localhost:1313/post/article-13/</link>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
+      <guid>//localhost:1313/post/article-13/</guid>
+      <description>Explore the fundamentals of serverless architecture and how it can streamline your backend development.</description>
+    </item>
+    <item>
+      <title>Mastering Asynchronous JavaScript with Promises</title>
+      <link>//localhost:1313/post/article-11/</link>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
+      <guid>//localhost:1313/post/article-11/</guid>
+      <description>Understand how Promises work in JavaScript and how they can simplify handling asynchronous operations.</description>
+    </item>
+    <item>
       <title>Optimizing Web Performance: Best Practices</title>
       <link>//localhost:1313/post/article-8/</link>
-      <pubDate>Fri, 16 Aug 2024 12:13:59 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
       <guid>//localhost:1313/post/article-8/</guid>
       <description>Learn essential techniques to optimize your website’s performance, ensuring fast load times and a smooth user experience.</description>
     </item>
     <item>
+      <title>The Future of Web Development: Trends to Watch</title>
+      <link>//localhost:1313/post/article-1/</link>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
+      <guid>//localhost:1313/post/article-1/</guid>
+      <description>Explore the latest trends shaping the future of web development, from AI-driven design to the rise of JAMstack.</description>
+    </item>
+    <item>
       <title>Top 5 JavaScript Frameworks to Learn in 2024</title>
       <link>//localhost:1313/post/article-7/</link>
-      <pubDate>Fri, 16 Aug 2024 12:13:59 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
       <guid>//localhost:1313/post/article-7/</guid>
       <description>An overview of the top JavaScript frameworks you should consider learning in 2024 to stay ahead in web development.</description>
     </item>
     <item>
       <title>Understanding JavaScript Closures</title>
       <link>//localhost:1313/post/article-2/</link>
-      <pubDate>Fri, 16 Aug 2024 12:13:59 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
       <guid>//localhost:1313/post/article-2/</guid>
       <description>A deep dive into JavaScript closures, explaining how they work and why they are crucial in modern development.</description>
     </item>
     <item>
       <title>Why Progressive Web Apps (PWAs) Matter</title>
       <link>//localhost:1313/post/article-6/</link>
-      <pubDate>Fri, 16 Aug 2024 12:13:59 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 12:15:46 +0000</pubDate>
       <guid>//localhost:1313/post/article-6/</guid>
       <description>Discover the advantages of PWAs and how they can enhance the user experience by blending the best of web and mobile apps.</description>
     </item>

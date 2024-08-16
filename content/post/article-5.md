@@ -1,6 +1,6 @@
 +++
 title = "Building Responsive Layouts with CSS Grid"
-date = "2024-08-16T12:15:46.850Z"
+date = "2024-08-16T12:23:01.522Z"
 draft = false
 +++
 
