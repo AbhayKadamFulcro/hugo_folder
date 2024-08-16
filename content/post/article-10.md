@@ -1,8 +1,8 @@
 +++
-title = "GraphQL vs REST: Which API Style to Choose?"
-date = "2024-08-16T12:05:14.153Z"
+title = "Getting Started with Next.js 14"
+date = "2024-08-16T12:07:53.217Z"
 draft = false
 +++
 
-  Compare GraphQL and REST, understanding the pros and cons of each API style to make an informed decision.
+  A quick guide to help you kickstart your Next.js 14 project, covering essential features and best practices.
         

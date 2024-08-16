@@ -1,8 +1,8 @@
 +++
-title = "Optimizing Web Performance: Best Practices"
-date = "2024-08-16T12:05:14.152Z"
+title = "GraphQL vs REST: Which API Style to Choose?"
+date = "2024-08-16T12:07:53.216Z"
 draft = false
 +++
 
-  Learn essential techniques to optimize your website’s performance, ensuring fast load times and a smooth user experience.
+  Compare GraphQL and REST, understanding the pros and cons of each API style to make an informed decision.
         
