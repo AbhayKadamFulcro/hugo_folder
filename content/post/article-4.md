@@ -1,6 +1,6 @@
 +++
 title = "A Beginner's Guide to TypeScript"
-date = "2024-08-16T10:11:28.886Z"
+date = "2024-08-16T10:54:50.351Z"
 draft = false
 +++
 
