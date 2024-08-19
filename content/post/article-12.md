@@ -1,6 +1,6 @@
 +++
 title = "CSS Variables: A Game-Changer for Web Design"
-date = "2024-08-19T07:45:05.296Z"
+date = "2024-08-19T07:46:47.673Z"
 draft = false
 +++
 
