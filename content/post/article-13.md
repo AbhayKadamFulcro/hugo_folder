@@ -1,6 +1,6 @@
 +++
 title = "Introduction to Serverless Architecture"
-date = "2024-08-19T08:01:59.656Z"
+date = "2024-08-19T10:05:27.600Z"
 draft = false
 +++
 

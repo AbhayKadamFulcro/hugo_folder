@@ -1,6 +1,6 @@
 +++
 title = "Understanding the Importance of Web Vitals"
-date = "2024-08-19T08:01:59.674Z"
+date = "2024-08-19T10:05:27.618Z"
 draft = false
 +++
 

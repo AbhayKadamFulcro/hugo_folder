@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2024 07:56:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 08:01:59 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Web Development: Trends to Watch</title>
+      <link>//localhost:1313/post/article-1/</link>
+      <pubDate>Mon, 19 Aug 2024 08:01:59 +0000</pubDate>
+      <guid>//localhost:1313/post/article-1/</guid>
+      <description>Explore the latest trends shaping the future of web development, from AI-driven design to the rise of JAMstack.</description>
+    </item>
     <item>
       <title>A Beginner&#39;s Guide to TypeScript</title>
       <link>//localhost:1313/post/article-4/</link>
@@ -175,13 +182,6 @@
       <pubDate>Mon, 19 Aug 2024 07:56:36 +0000</pubDate>
       <guid>//localhost:1313/post/article-31/</guid>
       <description>Explore how component-based design systems can streamline your development process and ensure consistency across your projects.</description>
-    </item>
-    <item>
-      <title>The Future of Web Development: Trends to Watch</title>
-      <link>//localhost:1313/post/article-1/</link>
-      <pubDate>Mon, 19 Aug 2024 07:56:36 +0000</pubDate>
-      <guid>//localhost:1313/post/article-1/</guid>
-      <description>Explore the latest trends shaping the future of web development, from AI-driven design to the rise of JAMstack.</description>
     </item>
     <item>
       <title>The Rise of Low-Code and No-Code Development</title>
