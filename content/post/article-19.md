@@ -1,6 +1,6 @@
 +++
 title = "A Guide to Docker for Beginners"
-date = "2024-08-19T07:56:36.078Z"
+date = "2024-08-19T08:01:59.661Z"
 draft = false
 +++
 
