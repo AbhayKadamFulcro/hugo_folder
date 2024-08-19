@@ -1,6 +1,6 @@
 +++
 title = "Building Mobile-First Websites: A Complete Guide"
-date = "2024-08-19T10:28:44.409Z"
+date = "2024-08-19T10:36:11.977Z"
 draft = false
 +++
 
