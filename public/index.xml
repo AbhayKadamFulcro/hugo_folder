@@ -184,3 +184,11 @@
       <description>A deep dive into JavaScript closures, explaining how they work and why they are crucial in modern development.</description>
     </item>
     <item>
+      <title>Why Progressive Web Apps (PWAs) Matter</title>
+      <link>//localhost:1313/post/article-6/</link>
+      <pubDate>Mon, 19 Aug 2024 07:43:58 +0000</pubDate>
+      <guid>//localhost:1313/post/article-6/</guid>
+      <description>Discover the advantages of PWAs and how they can enhance the user experience by blending the best of web and mobile apps.</description>
+    </item>
+  </channel>
+</rss>

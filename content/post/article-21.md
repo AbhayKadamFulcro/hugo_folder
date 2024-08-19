@@ -1,6 +1,6 @@
 +++
 title = "The Role of Web Accessibility in SEO"
-date = "2024-08-19T07:43:58.185Z"
+date = "2024-08-19T07:45:05.309Z"
 draft = false
 +++
 
