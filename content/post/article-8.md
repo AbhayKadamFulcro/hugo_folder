@@ -1,6 +1,6 @@
 +++
 title = "Optimizing Web Performance: Best Practices"
-date = "2024-08-19T10:05:27.596Z"
+date = "2024-08-19T10:28:44.389Z"
 draft = false
 +++
 

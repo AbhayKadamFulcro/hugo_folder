@@ -1,6 +1,6 @@
 +++
 title = "Continuous Integration and Deployment (CI/CD) Explained"
-date = "2024-08-19T10:05:27.602Z"
+date = "2024-08-19T10:28:44.395Z"
 draft = false
 +++
 
