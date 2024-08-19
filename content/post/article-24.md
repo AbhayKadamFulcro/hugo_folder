@@ -1,6 +1,6 @@
 +++
 title = "Exploring WebAssembly: The Future of High-Performance Web Apps"
-date = "2024-08-19T10:36:11.976Z"
+date = "2024-08-19T10:37:24.706Z"
 draft = false
 +++
 
