@@ -1,6 +1,6 @@
 +++
 title = "How to Secure Your Web Application"
-date = "2024-08-19T10:37:24.713Z"
+date = "2024-08-22T05:11:22.725Z"
 draft = false
 +++
 
