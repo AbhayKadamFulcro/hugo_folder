@@ -1,6 +1,6 @@
 +++
 title = "Automating Testing with Jest in JavaScript"
-date = "2024-08-22T05:11:22.705Z"
+date = "2024-08-22T05:53:44.438Z"
 draft = false
 +++
 
