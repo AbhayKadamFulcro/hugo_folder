@@ -1,6 +1,6 @@
 +++
 title = "Optimizing Images for the Web: Techniques and Tools"
-date = "2024-08-22T10:41:58.886Z"
+date = "2024-08-22T10:42:40.963Z"
 draft = false
 +++
 

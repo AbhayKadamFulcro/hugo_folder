@@ -1,6 +1,6 @@
 +++
 title = "Understanding JavaScript Closures"
-date = "2024-08-22T10:41:58.808Z"
+date = "2024-08-22T10:42:40.936Z"
 draft = false
 +++
 

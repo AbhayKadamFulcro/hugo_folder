@@ -1,6 +1,6 @@
 +++
 title = "Why Progressive Web Apps (PWAs) Matter"
-date = "2024-08-22T10:41:58.811Z"
+date = "2024-08-22T10:42:40.942Z"
 draft = false
 +++
 

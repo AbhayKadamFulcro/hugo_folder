@@ -1,6 +1,6 @@
 +++
 title = "Understanding Webhooks: Real-Time Communication for Web Applications"
-date = "2024-08-22T10:41:58.898Z"
+date = "2024-08-22T10:42:40.966Z"
 draft = false
 +++
 
