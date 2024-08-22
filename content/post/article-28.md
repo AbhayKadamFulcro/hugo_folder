@@ -1,6 +1,6 @@
 +++
 title = "A Comprehensive Guide to Responsive Typography"
-date = "2024-08-22T10:38:07.036Z"
+date = "2024-08-22T10:41:58.882Z"
 draft = false
 +++
 

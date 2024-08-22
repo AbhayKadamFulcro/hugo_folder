@@ -1,6 +1,6 @@
 +++
 title = "Introduction to Microservices Architecture"
-date = "2024-08-22T10:38:07.046Z"
+date = "2024-08-22T10:41:58.900Z"
 draft = false
 +++
 
