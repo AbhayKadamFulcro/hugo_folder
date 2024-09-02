@@ -1,6 +1,6 @@
 +++
 title = "Introduction to JAMstack Architecture"
-date = "2024-09-02T11:32:45.325Z"
+date = "2024-09-02T11:33:51.536Z"
 draft = false
 +++
 

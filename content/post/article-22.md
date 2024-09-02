@@ -1,6 +1,6 @@
 +++
 title = "The Rise of Low-Code and No-Code Development"
-date = "2024-09-02T11:32:45.308Z"
+date = "2024-09-02T11:33:51.521Z"
 draft = false
 +++
 

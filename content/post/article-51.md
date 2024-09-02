@@ -1,6 +1,6 @@
 +++
 title = "Optimizing React Performance: Techniques and Best Practices"
-date = "2024-09-02T11:32:45.345Z"
+date = "2024-09-02T11:33:51.553Z"
 draft = false
 +++
 

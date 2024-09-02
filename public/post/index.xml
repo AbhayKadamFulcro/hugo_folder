@@ -6,355 +6,369 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2024 05:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 11:32:45 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Beginner&#39;s Guide to TypeScript</title>
       <link>//localhost:1313/post/article-4/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-4/</guid>
       <description>This guide introduces TypeScript, explaining its benefits over JavaScript and how to get started with it.</description>
     </item>
     <item>
       <title>A Comprehensive Guide to Responsive Typography</title>
       <link>//localhost:1313/post/article-28/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-28/</guid>
       <description>Learn how to create responsive typography that adjusts seamlessly across different devices, enhancing readability and design.</description>
     </item>
     <item>
       <title>A Guide to Docker for Beginners</title>
       <link>//localhost:1313/post/article-19/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-19/</guid>
       <description>Get started with Docker, understanding containerization and how it simplifies application deployment.</description>
     </item>
     <item>
       <title>Automating Testing with Jest in JavaScript</title>
       <link>//localhost:1313/post/article-26/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-26/</guid>
       <description>Master automated testing in JavaScript by using Jest, a powerful testing framework that simplifies writing and running tests.</description>
     </item>
     <item>
       <title>Best Practices for API Documentation</title>
       <link>//localhost:1313/post/article-35/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-35/</guid>
       <description>Discover best practices for documenting APIs to ensure they are easy to understand and use for developers.</description>
     </item>
     <item>
       <title>Building Accessible Websites: Key Considerations</title>
       <link>//localhost:1313/post/article-14/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-14/</guid>
       <description>Discover best practices for making your website accessible to users with disabilities, improving usability for all.</description>
     </item>
     <item>
       <title>Building Mobile-First Websites: A Complete Guide</title>
       <link>//localhost:1313/post/article-25/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-25/</guid>
       <description>Learn the principles of mobile-first design, and how to create websites optimized for mobile devices from the start.</description>
     </item>
     <item>
       <title>Building Progressive Web Apps with React</title>
       <link>//localhost:1313/post/article-42/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-42/</guid>
       <description>Learn how to create Progressive Web Apps (PWAs) using React, combining the power of web and mobile applications.</description>
     </item>
     <item>
       <title>Building Progressive Web Apps with React</title>
       <link>//localhost:1313/post/article-44/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-44/</guid>
       <description>Learn how to create Progressive Web Apps (PWAs) using React, combining the power of web and mobile applications.</description>
     </item>
     <item>
       <title>Building Responsive Layouts with CSS Grid</title>
       <link>//localhost:1313/post/article-49/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-49/</guid>
       <description>Explore the power of CSS Grid to create flexible and responsive web layouts that adapt seamlessly to different screen sizes.</description>
     </item>
     <item>
       <title>Building Responsive Layouts with CSS Grid</title>
       <link>//localhost:1313/post/article-5/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-5/</guid>
       <description>Master the CSS Grid layout system to create responsive and visually appealing web designs.</description>
     </item>
     <item>
       <title>Continuous Integration and Deployment (CI/CD) Explained</title>
       <link>//localhost:1313/post/article-15/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-15/</guid>
       <description>An overview of CI/CD practices, highlighting their importance in modern software development for faster and reliable releases.</description>
     </item>
     <item>
       <title>CSS Variables: A Game-Changer for Web Design</title>
       <link>//localhost:1313/post/article-12/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-12/</guid>
       <description>Learn how to use CSS variables to create flexible and maintainable stylesheets in your web projects.</description>
     </item>
     <item>
       <title>Demystifying CSS Flexbox: A Practical Guide</title>
       <link>//localhost:1313/post/article-43/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-43/</guid>
       <description>Understand the power of CSS Flexbox and how it simplifies the creation of flexible and responsive layouts.</description>
     </item>
     <item>
       <title>Demystifying CSS Flexbox: A Practical Guide</title>
       <link>//localhost:1313/post/article-45/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-45/</guid>
       <description>Understand the power of CSS Flexbox and how it simplifies the creation of flexible and responsive layouts.</description>
     </item>
     <item>
       <title>Demystifying CSS Flexbox: A Practical Guide</title>
       <link>//localhost:1313/post/article-47/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-47/</guid>
       <description>Understand the power of CSS Flexbox and how it simplifies the creation of flexible and responsive layouts.</description>
     </item>
     <item>
       <title>Enhancing User Experience with Microinteractions</title>
       <link>//localhost:1313/post/article-17/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-17/</guid>
       <description>Explore how microinteractions can improve user engagement and create a more intuitive and enjoyable interface.</description>
     </item>
     <item>
       <title>Enhancing User Experience with Microinteractions</title>
       <link>//localhost:1313/post/article-18/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-18/</guid>
       <description>Explore how microinteractions can improve user engagement and create a more intuitive and enjoyable interface.</description>
     </item>
     <item>
       <title>Exploring Static Site Generators: Speed, Security, and Simplicity</title>
       <link>//localhost:1313/post/article-38/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-38/</guid>
       <description>Discover the benefits of static site generators and how they offer a fast, secure, and easy way to build websites.</description>
     </item>
     <item>
       <title>Exploring the MERN Stack: A Full-Stack JavaScript Solution</title>
       <link>//localhost:1313/post/article-33/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-33/</guid>
       <description>Get to know the MERN stack—MongoDB, Express.js, React, and Node.js—and how it powers full-stack JavaScript applications.</description>
     </item>
     <item>
       <title>Exploring WebAssembly: The Future of High-Performance Web Apps</title>
       <link>//localhost:1313/post/article-24/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-24/</guid>
       <description>An introduction to WebAssembly, detailing how it’s bringing near-native performance to web applications.</description>
     </item>
     <item>
       <title>Getting Started with Next.js 14</title>
       <link>//localhost:1313/post/article-10/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-10/</guid>
       <description>A quick guide to help you kickstart your Next.js 14 project, covering essential features and best practices.</description>
     </item>
     <item>
       <title>GraphQL vs REST: Which API Style to Choose?</title>
       <link>//localhost:1313/post/article-9/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-9/</guid>
       <description>Compare GraphQL and REST, understanding the pros and cons of each API style to make an informed decision.</description>
     </item>
     <item>
       <title>How to Build a Scalable API with Node.js</title>
       <link>//localhost:1313/post/article-23/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-23/</guid>
       <description>Learn the best practices for building and scaling APIs using Node.js, focusing on performance and maintainability.</description>
     </item>
     <item>
       <title>How to Implement Continuous Delivery in Your Projects</title>
       <link>//localhost:1313/post/article-40/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-40/</guid>
       <description>Explore the steps to implement continuous delivery (CD) in your development workflow for faster and more reliable releases.</description>
     </item>
     <item>
       <title>How to Improve Your Website’s SEO in 2024</title>
       <link>//localhost:1313/post/article-3/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-3/</guid>
       <description>Learn actionable tips and strategies to boost your website’s search engine ranking and drive more organic traffic.</description>
     </item>
     <item>
       <title>How to Secure Your Web Application</title>
       <link>//localhost:1313/post/article-30/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-30/</guid>
       <description>Learn essential strategies to protect your web application from common security threats like SQL injection and XSS.</description>
     </item>
     <item>
+      <title>Introduction to GraphQL: A REST Alternative</title>
+      <link>//localhost:1313/post/article-52/</link>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
+      <guid>//localhost:1313/post/article-52/</guid>
+      <description>Understand the basics of GraphQL and how it differs from REST APIs, with practical examples to get you started.</description>
+    </item>
+    <item>
       <title>Introduction to Headless CMS: What You Need to Know</title>
       <link>//localhost:1313/post/article-16/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-16/</guid>
       <description>Learn about headless CMS, how it differs from traditional CMS, and why it’s becoming popular in modern web development.</description>
     </item>
     <item>
       <title>Introduction to JAMstack Architecture</title>
       <link>//localhost:1313/post/article-36/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-36/</guid>
       <description>Understand the JAMstack architecture, its benefits, and how it can improve performance and security for your web projects.</description>
     </item>
     <item>
       <title>Introduction to Machine Learning in Web Development</title>
       <link>//localhost:1313/post/article-29/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-29/</guid>
       <description>Discover how machine learning is being integrated into web development, from personalization to predictive analytics.</description>
     </item>
     <item>
       <title>Introduction to Microservices Architecture</title>
       <link>//localhost:1313/post/article-39/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-39/</guid>
       <description>Dive into microservices architecture and understand how it breaks down complex applications into smaller, manageable services.</description>
     </item>
     <item>
       <title>Introduction to Serverless Architecture</title>
       <link>//localhost:1313/post/article-13/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-13/</guid>
       <description>Explore the fundamentals of serverless architecture and how it can streamline your backend development.</description>
     </item>
     <item>
       <title>JavaScript ES6&#43; Features Every Developer Should Know</title>
       <link>//localhost:1313/post/article-50/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-50/</guid>
       <description>Discover the essential modern JavaScript features that can enhance your code readability and efficiency.</description>
     </item>
     <item>
       <title>Leveraging AI in Web Design</title>
       <link>//localhost:1313/post/article-20/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-20/</guid>
       <description>Discover how artificial intelligence is revolutionizing web design, from automated layouts to AI-driven user personalization.</description>
     </item>
     <item>
       <title>Leveraging Cloud Services for Scalable Web Applications</title>
       <link>//localhost:1313/post/article-34/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-34/</guid>
       <description>Learn how to use cloud services to scale your web applications efficiently and handle varying loads with ease.</description>
     </item>
     <item>
       <title>Mastering Asynchronous JavaScript with Promises</title>
       <link>//localhost:1313/post/article-11/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-11/</guid>
       <description>Understand how Promises work in JavaScript and how they can simplify handling asynchronous operations.</description>
     </item>
     <item>
       <title>Mastering React Hooks: useState and useEffect</title>
       <link>//localhost:1313/post/article-48/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-48/</guid>
       <description>Dive deep into the two most commonly used React Hooks and learn how to effectively manage component state and side effects.</description>
     </item>
     <item>
       <title>Optimizing Images for the Web: Techniques and Tools</title>
       <link>//localhost:1313/post/article-32/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-32/</guid>
       <description>Discover various techniques and tools to optimize images for faster load times and better performance on the web.</description>
     </item>
     <item>
+      <title>Optimizing React Performance: Techniques and Best Practices</title>
+      <link>//localhost:1313/post/article-51/</link>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
+      <guid>//localhost:1313/post/article-51/</guid>
+      <description>Learn advanced techniques to boost your React application&amp;rsquo;s performance, including memoization, code splitting, and lazy loading.</description>
+    </item>
+    <item>
       <title>Optimizing Web Performance: Best Practices</title>
       <link>//localhost:1313/post/article-8/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-8/</guid>
       <description>Learn essential techniques to optimize your website’s performance, ensuring fast load times and a smooth user experience.</description>
     </item>
     <item>
       <title>The Benefits of Component-Based Design Systems</title>
       <link>//localhost:1313/post/article-31/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-31/</guid>
       <description>Explore how component-based design systems can streamline your development process and ensure consistency across your projects.</description>
     </item>
     <item>
       <title>The Future of Web Development: Trends to Watch</title>
       <link>//localhost:1313/post/article-1/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-1/</guid>
       <description>Explore the latest trends shaping the future of web development, from AI-driven design to the rise of JAMstack.</description>
     </item>
     <item>
       <title>The Importance of Cross-Browser Compatibility</title>
       <link>//localhost:1313/post/article-41/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-41/</guid>
       <description>Learn why cross-browser compatibility is essential and how to ensure your website works seamlessly across different browsers.</description>
     </item>
     <item>
       <title>The Rise of Low-Code and No-Code Development</title>
       <link>//localhost:1313/post/article-22/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-22/</guid>
       <description>Explore the growing trend of low-code and no-code platforms that are empowering non-developers to build applications quickly.</description>
     </item>
     <item>
       <title>The Role of Web Accessibility in SEO</title>
       <link>//localhost:1313/post/article-21/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-21/</guid>
       <description>Understand the connection between web accessibility and SEO, and how making your site accessible can improve search rankings.</description>
     </item>
     <item>
       <title>Top 5 JavaScript Frameworks to Learn in 2024</title>
       <link>//localhost:1313/post/article-7/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-7/</guid>
       <description>An overview of the top JavaScript frameworks you should consider learning in 2024 to stay ahead in web development.</description>
     </item>
     <item>
       <title>Understanding JavaScript Closures</title>
       <link>//localhost:1313/post/article-2/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-2/</guid>
       <description>A deep dive into JavaScript closures, explaining how they work and why they are crucial in modern development.</description>
     </item>
     <item>
       <title>Understanding React Context API</title>
       <link>//localhost:1313/post/article-46/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-46/</guid>
       <description>Learn how to use the React Context API to manage global state and improve your app&amp;rsquo;s performance.</description>
     </item>
     <item>
       <title>Understanding the Importance of Web Vitals</title>
       <link>//localhost:1313/post/article-27/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-27/</guid>
       <description>Dive into Web Vitals, a set of metrics defined by Google, and learn how they impact user experience and SEO.</description>
     </item>
     <item>
       <title>Understanding Webhooks: Real-Time Communication for Web Applications</title>
       <link>//localhost:1313/post/article-37/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-37/</guid>
       <description>Learn how webhooks work and how they enable real-time communication between different applications over the web.</description>
     </item>
     <item>
       <title>Why Progressive Web Apps (PWAs) Matter</title>
       <link>//localhost:1313/post/article-6/</link>
-      <pubDate>Mon, 02 Sep 2024 05:24:28 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2024 11:32:45 +0000</pubDate>
       <guid>//localhost:1313/post/article-6/</guid>
       <description>Discover the advantages of PWAs and how they can enhance the user experience by blending the best of web and mobile apps.</description>
     </item>
