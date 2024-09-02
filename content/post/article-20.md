@@ -1,6 +1,6 @@
 +++
 title = "Leveraging AI in Web Design"
-date = "2024-09-02T05:24:28.112Z"
+date = "2024-09-02T11:32:45.306Z"
 draft = false
 +++
 

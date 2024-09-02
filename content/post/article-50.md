@@ -1,6 +1,6 @@
 +++
 title = "JavaScript ES6+ Features Every Developer Should Know"
-date = "2024-09-02T05:24:28.146Z"
+date = "2024-09-02T11:32:45.341Z"
 draft = false
 +++
 
