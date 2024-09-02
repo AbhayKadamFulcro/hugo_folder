@@ -1,6 +1,6 @@
 +++
 title = "How to Implement Continuous Delivery in Your Projects"
-date = "2024-09-02T11:33:51.541Z"
+date = "2024-09-02T11:35:17.346Z"
 draft = false
 +++
 

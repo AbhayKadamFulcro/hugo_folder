@@ -1,6 +1,6 @@
 +++
 title = "Serverless Architecture: Pros, Cons, and Use Cases"
-date = "2024-09-02T11:33:51.555Z"
+date = "2024-09-02T11:35:17.360Z"
 draft = false
 +++
 
