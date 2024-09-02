@@ -1,6 +1,6 @@
 +++
 title = "Exploring Static Site Generators: Speed, Security, and Simplicity"
-date = "2024-09-02T05:21:47.834Z"
+date = "2024-09-02T05:24:28.128Z"
 draft = false
 +++
 
