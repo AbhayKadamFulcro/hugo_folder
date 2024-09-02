@@ -1,6 +1,6 @@
 +++
 title = "Building Progressive Web Apps with React"
-date = "2024-08-27T05:19:15.964Z"
+date = "2024-09-02T05:21:47.839Z"
 draft = false
 +++
 

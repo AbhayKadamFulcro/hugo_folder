@@ -1,6 +1,6 @@
 +++
 title = "Top 5 JavaScript Frameworks to Learn in 2024"
-date = "2024-08-27T05:19:15.927Z"
+date = "2024-09-02T05:21:47.798Z"
 draft = false
 +++
 
