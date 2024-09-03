@@ -6,21 +6,28 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2024 12:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 12:17:04 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Styling in React: CSS-in-JS vs. CSS Modules</title>
-      <link>//localhost:1313/post/article-2/</link>
-      <pubDate>Tue, 03 Sep 2024 12:14:18 +0000</pubDate>
-      <guid>//localhost:1313/post/article-2/</guid>
-      <description>Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.</description>
+      <title>Managing Forms in React: Controlled Components vs. Formik</title>
+      <link>//localhost:1313/post/article-3/</link>
+      <pubDate>Tue, 03 Sep 2024 12:17:04 +0000</pubDate>
+      <guid>//localhost:1313/post/article-3/</guid>
+      <description>Compare traditional controlled components with the Formik library for handling complex form state and validation in React applications.</description>
     </item>
     <item>
-      <title>Why Progressive Web Apps (PWAs) Matter</title>
+      <title>React Suspense and Lazy Loading: Improving App Load Times</title>
+      <link>//localhost:1313/post/article-2/</link>
+      <pubDate>Tue, 03 Sep 2024 12:17:04 +0000</pubDate>
+      <guid>//localhost:1313/post/article-2/</guid>
+      <description>Learn how to use React Suspense and lazy loading to split your application code and improve initial load times for a better user experience.</description>
+    </item>
+    <item>
+      <title>Styling in React: CSS-in-JS vs. CSS Modules</title>
       <link>//localhost:1313/post/article-1/</link>
-      <pubDate>Tue, 03 Sep 2024 12:14:18 +0000</pubDate>
+      <pubDate>Tue, 03 Sep 2024 12:17:04 +0000</pubDate>
       <guid>//localhost:1313/post/article-1/</guid>
-      <description>Discover the advantages of PWAs and how they can enhance the user experience by blending the best of web and mobile apps.</description>
+      <description>Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.</description>
     </item>
   </channel>
 </rss>
