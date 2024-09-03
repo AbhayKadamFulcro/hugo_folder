@@ -1,6 +1,6 @@
 +++
 title = "Introduction to GraphQL: A REST Alternative"
-date = "2024-09-03T12:11:09.261Z"
+date = "2024-09-03T12:11:52.083Z"
 draft = false
 +++
 

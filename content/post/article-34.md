@@ -1,6 +1,6 @@
 +++
 title = "Leveraging Cloud Services for Scalable Web Applications"
-date = "2024-09-03T12:11:09.243Z"
+date = "2024-09-03T12:11:52.061Z"
 draft = false
 +++
 

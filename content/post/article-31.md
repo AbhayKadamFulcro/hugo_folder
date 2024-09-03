@@ -1,6 +1,6 @@
 +++
 title = "The Benefits of Component-Based Design Systems"
-date = "2024-09-03T12:11:09.240Z"
+date = "2024-09-03T12:11:52.057Z"
 draft = false
 +++
 

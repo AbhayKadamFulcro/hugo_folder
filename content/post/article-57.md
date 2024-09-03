@@ -1,6 +1,6 @@
 +++
 title = "Advanced State Management in React: Context API vs. Redux"
-date = "2024-09-03T12:11:09.266Z"
+date = "2024-09-03T12:11:52.090Z"
 draft = false
 +++
 

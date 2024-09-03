@@ -1,6 +1,6 @@
 +++
 title = "Mastering Git: Beyond the Basics"
-date = "2024-09-03T12:11:09.263Z"
+date = "2024-09-03T12:11:52.087Z"
 draft = false
 +++
 

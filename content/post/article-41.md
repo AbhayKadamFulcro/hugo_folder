@@ -1,6 +1,6 @@
 +++
 title = "The Importance of Cross-Browser Compatibility"
-date = "2024-09-03T12:11:09.248Z"
+date = "2024-09-03T12:11:52.072Z"
 draft = false
 +++
 
