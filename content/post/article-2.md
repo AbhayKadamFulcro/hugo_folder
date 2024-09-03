@@ -1,8 +1,8 @@
 +++
-title = "Understanding JavaScript Closures"
-date = "2024-09-03T12:11:52.024Z"
+title = "Styling in React: CSS-in-JS vs. CSS Modules"
+date = "2024-09-03T12:14:18.171Z"
 draft = false
 +++
 
-  A deep dive into JavaScript closures, explaining how they work and why they are crucial in modern development.
+  Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.
         
