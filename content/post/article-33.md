@@ -1,6 +1,6 @@
 +++
 title = "Exploring the MERN Stack: A Full-Stack JavaScript Solution"
-date = "2024-09-02T11:35:17.339Z"
+date = "2024-09-03T05:20:13.189Z"
 draft = false
 +++
 

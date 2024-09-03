@@ -1,6 +1,6 @@
 +++
 title = "The Future of Web Development: Trends to Watch"
-date = "2024-09-02T11:35:17.304Z"
+date = "2024-09-03T05:20:13.156Z"
 draft = false
 +++
 
