@@ -1,6 +1,6 @@
 +++
 title = "How to Secure a Node.js API with JWT"
-date = "2024-09-03T05:52:36.794Z"
+date = "2024-09-03T05:52:59.664Z"
 draft = false
 +++
 
