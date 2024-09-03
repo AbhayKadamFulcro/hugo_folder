@@ -1,8 +1,8 @@
 +++
-title = "Styling in React: CSS-in-JS vs. CSS Modules"
-date = "2024-09-03T12:14:18.171Z"
+title = "React Suspense and Lazy Loading: Improving App Load Times"
+date = "2024-09-03T12:16:13.740Z"
 draft = false
 +++
 
-  Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.
+  Learn how to use React Suspense and lazy loading to split your application code and improve initial load times for a better user experience.
         
