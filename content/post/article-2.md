@@ -1,6 +1,6 @@
 +++
 title = "React Suspense and Lazy Loading: Improving App Load Times"
-date = "2024-09-03T13:20:03.923Z"
+date = "2024-09-03T13:20:27.880Z"
 draft = false
 +++
 
