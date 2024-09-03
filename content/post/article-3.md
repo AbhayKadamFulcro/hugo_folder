@@ -1,6 +1,6 @@
 +++
 title = "Managing Forms in React: Controlled Components vs. Formik"
-date = "2024-09-03T12:59:38.483Z"
+date = "2024-09-03T12:59:55.859Z"
 draft = false
 +++
 
