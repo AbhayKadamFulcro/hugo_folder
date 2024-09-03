@@ -1,6 +1,6 @@
 +++
 title = "Server-Side Rendering with Next.js and React"
-date = "2024-09-03T12:42:59.780Z"
+date = "2024-09-03T12:59:38.483Z"
 draft = false
 +++
 
