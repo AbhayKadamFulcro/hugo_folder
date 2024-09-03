@@ -16,4 +16,11 @@
       <description>Learn how to use React Suspense and lazy loading to split your application code and improve initial load times for a better user experience.</description>
     </item>
     <item>
-      <tit
+      <title>Styling in React: CSS-in-JS vs. CSS Modules</title>
+      <link>//localhost:1313/post/article-1/</link>
+      <pubDate>Tue, 03 Sep 2024 12:42:59 +0000</pubDate>
+      <guid>//localhost:1313/post/article-1/</guid>
+      <description>Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.</description>
+    </item>
+  </channel>
+</rss>
