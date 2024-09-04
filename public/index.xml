@@ -16,6 +16,13 @@
       <description>Learn how to use React Suspense and lazy loading to split your application code and improve initial load times for a better user experience.</description>
     </item>
     <item>
+      <title>Server-Side Rendering with Next.js and React</title>
+      <link>//localhost:1313/post/article-4/</link>
+      <pubDate>Tue, 03 Sep 2024 12:42:59 +0000</pubDate>
+      <guid>//localhost:1313/post/article-4/</guid>
+      <description>Explore the benefits of server-side rendering and learn how to implement it in your React applications using the Next.js framework.</description>
+    </item>
+    <item>
       <title>Styling in React: CSS-in-JS vs. CSS Modules</title>
       <link>//localhost:1313/post/article-1/</link>
       <pubDate>Tue, 03 Sep 2024 12:42:59 +0000</pubDate>
