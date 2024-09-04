@@ -1,8 +1,8 @@
 +++
-title = "Managing Forms in React: Controlled Components vs. Formik"
-date = "2024-09-04T09:47:48.846Z"
+title = "How to Use Docker for Local Development"
+date = "2024-09-04T09:48:35.730Z"
 draft = false
 +++
 
-Compare traditional controlled components with the Formik library for handling complex form state and validation in React applications.
+A beginner's guide to setting up Docker for local development environments, enabling consistent workflows across teams.
         
