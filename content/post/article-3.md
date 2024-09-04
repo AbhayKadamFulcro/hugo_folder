@@ -1,6 +1,6 @@
 +++
 title = "GraphQL vs. REST: Making the Right Choice for Your API"
-date = "2024-09-04T13:40:53.022Z"
+date = "2024-09-04T13:41:00.696Z"
 draft = false
 +++
 
