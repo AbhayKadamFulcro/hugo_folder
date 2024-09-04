@@ -1,8 +1,8 @@
 +++
-title = "Optimizing React Performance: Memoization and useCallback"
-date = "2024-09-04T06:00:06.897Z"
+title = "React Router: Building Single-Page Applications with Dynamic Routing"
+date = "2024-09-04T06:00:48.659Z"
 draft = false
 +++
 
-  Explore techniques to improve your React app's performance using memoization, the useMemo hook, and the useCallback hook.
+  Master the art of creating seamless navigation in your React apps using React Router for declarative, component-based routing.
         

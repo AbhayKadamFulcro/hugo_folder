@@ -1,8 +1,8 @@
 +++
-title = "Styling in React: CSS-in-JS vs. CSS Modules"
-date = "2024-09-04T06:00:06.897Z"
+title = "Optimizing React Performance: Memoization and useCallback"
+date = "2024-09-04T06:00:48.658Z"
 draft = false
 +++
 
-  Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.
+  Explore techniques to improve your React app's performance using memoization, the useMemo hook, and the useCallback hook.
         

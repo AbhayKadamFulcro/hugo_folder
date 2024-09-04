@@ -1,8 +1,8 @@
 +++
-title = "Creating Custom React Hooks for Reusable Logic"
-date = "2024-09-04T06:00:06.899Z"
+title = "Building Responsive UIs with React and CSS Grid"
+date = "2024-09-04T06:00:48.661Z"
 draft = false
 +++
 
-  Creating Custom React Hooks for Reusable Logic
+  Learn how to combine React components with CSS Grid to create flexible and responsive user interfaces for modern web applications.
         
