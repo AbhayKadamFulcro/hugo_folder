@@ -1,6 +1,6 @@
 +++
 title = "React Router: Building Single-Page Applications with Dynamic Routing"
-date = "2024-09-04T07:33:59.584Z"
+date = "2024-09-04T09:08:18.516Z"
 draft = false
 +++
 
