@@ -6,14 +6,14 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2024 05:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 05:45:31 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Styling in React: CSS-in-JS vs. CSS Modules</title>
+      <title>Server-Side Rendering with Next.js and React</title>
       <link>//localhost:1313/post/article-1/</link>
-      <pubDate>Wed, 04 Sep 2024 05:14:08 +0000</pubDate>
+      <pubDate>Wed, 04 Sep 2024 05:45:31 +0000</pubDate>
       <guid>//localhost:1313/post/article-1/</guid>
-      <description>Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.</description>
+      <description>Explore the benefits of server-side rendering and learn how to implement it in your React applications using the Next.js framework.</description>
     </item>
   </channel>
 </rss>
