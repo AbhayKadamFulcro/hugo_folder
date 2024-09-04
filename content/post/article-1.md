@@ -1,6 +1,6 @@
 +++
 title = "How to Use Docker for Local Development"
-date = "2024-09-04T13:02:57.137Z"
+date = "2024-09-04T13:03:11.734Z"
 draft = false
 +++
 
