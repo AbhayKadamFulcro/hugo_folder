@@ -1,6 +1,6 @@
 +++
 title = "The Role of Caching in Web Development"
-date = "2024-09-04T10:31:18.037Z"
+date = "2024-09-04T10:33:06.339Z"
 draft = false
 +++
 
