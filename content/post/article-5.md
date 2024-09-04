@@ -1,8 +1,8 @@
 +++
 title = "Building Responsive UIs with React and CSS Grid"
-date = "2024-09-04T09:16:04.175Z"
+date = "2024-09-04T09:36:02.392Z"
 draft = false
 +++
 
-  Learn how to combine React components with CSS Grid to create flexible and responsive user interfaces for modern web applications.
+Learn how to combine React components with CSS Grid to create flexible and responsive user interfaces for modern web applications.
         

@@ -1,8 +1,8 @@
 +++
 title = "How to Use Docker for Local Development"
-date = "2024-09-04T09:16:04.178Z"
+date = "2024-09-04T09:36:02.396Z"
 draft = false
 +++
 
-  A beginner's guide to setting up Docker for local development environments, enabling consistent workflows across teams.
+A beginner's guide to setting up Docker for local development environments, enabling consistent workflows across teams.
         
