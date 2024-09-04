@@ -16,24 +16,25 @@
       <description>Compare traditional controlled components with the Formik library for handling complex form state and validation in React applications.</description>
     </item>
     <item>
-      <title>Managing Forms in React: Controlled Components vs. Formik</title>
-      <link>//localhost:1313/post/article-2/</link>
-      <pubDate>Wed, 04 Sep 2024 05:52:54 +0000</pubDate>
-      <guid>//localhost:1313/post/article-2/</guid>
-      <description>ferent approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</description>
+      <title>Optimizing React Performance: Memoization and useCallback</title>
+      <link>//localhost:1313/post/article-3/</link>
+      <pubDate>Wed, 04 Sep 2024 05:59:27 +0000</pubDate>
+      <guid>//localhost:1313/post/article-3/</guid>
+      <description>Explore techniques to improve your React app&amp;rsquo;s performance using memoization, the useMemo hook, and the useCallback hook.</description>
     </item>
     <item>
-      <title>Optimizing React Performance: Memoization and useCallback</title>
+      <title>React Router: Building Single-Page Applications with Dynamic Routing</title>
       <link>//localhost:1313/post/article-4/</link>
-      <pubDate>Wed, 04 Sep 2024 05:52:54 +0000</pubDate>
+      <pubDate>Wed, 04 Sep 2024 05:59:27 +0000</pubDate>
       <guid>//localhost:1313/post/article-4/</guid>
-      <description>false +++
-Master the art of creating seamless navigation in your React apps using React Router for declarative, component-based r</description>
+      <description>Master the art of creating seamless navigation in your React apps using React Router for declarative, component-based routing.</description>
     </item>
     <item>
       <title>Styling in React: CSS-in-JS vs. CSS Modules</title>
-      <link>//localhost:1313/post/article-3/</link>
-      <pubDate>Wed, 04 Sep 2024 05:52:54 +0000</pubDate>
-      <guid>//localhost:1313/post/article-3/</guid>
-      <description>t = false +++
-Explore techniques to improve your React app&amp;rsquo;s performance using memoization, the useMemo hook, and the useCallback hook. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿
+      <link>//localhost:1313/post/article-2/</link>
+      <pubDate>Wed, 04 Sep 2024 05:59:27 +0000</pubDate>
+      <guid>//localhost:1313/post/article-2/</guid>
+      <description>Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.</description>
+    </item>
+  </channel>
+</rss>
