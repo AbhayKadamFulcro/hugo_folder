@@ -2,34 +2,3 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme= 'PaperMod'
-
-[params.homeInfoParams]
-Title = "Hey, I’m Abhay 👋"
-Content = "I am a Front-end Engineer & Technical Writer. I enjoy creating interactive solutions with JavaScript. On my blog, I write about code (mostly JavaScript and React) and everything I learn. I’m actively exploring the world of web3 and blockchain technology."
-
-[[params.homeInfoParams.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/joelolawanle"
-
-[[params.homeInfoParams.socialIcons]]
-name = "github"
-url = "https://github.com/olawanlejoel"
-
-[[params.homeInfoParams.socialIcons]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/joelolawanle/"
-
-
-[menu]
-
-[[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 10
-
-[[menu.main]]
-identifier = "posts"
-name = "Blog"
-url = "/post/"
-weight = 20
