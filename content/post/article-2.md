@@ -1,6 +1,6 @@
 +++
 title = "Optimizing React Performance: Memoization and useCallback"
-date = "2024-09-04T07:26:23.789Z"
+date = "2024-09-04T07:33:59.583Z"
 draft = false
 +++
 

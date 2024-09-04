@@ -1,6 +1,6 @@
 +++
 title = "Building Responsive UIs with React and CSS Grid"
-date = "2024-09-04T07:26:23.791Z"
+date = "2024-09-04T07:33:59.586Z"
 draft = false
 +++
 

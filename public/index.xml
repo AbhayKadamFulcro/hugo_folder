@@ -6,56 +6,6 @@
     <description>Recent content in This is my Homepage title on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2024 06:07:08 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Building Responsive UIs with React and CSS Grid</title>
-      <link>//localhost:1313/post/article-5/</link>
-      <pubDate>Wed, 04 Sep 2024 06:07:08 +0000</pubDate>
-      <guid>//localhost:1313/post/article-5/</guid>
-      <description>Learn how to combine React components with CSS Grid to create flexible and responsive user interfaces for modern web applications.</description>
-    </item>
-    <item>
-      <title>Creating Custom React Hooks for Reusable Logic</title>
-      <link>//localhost:1313/post/article-4/</link>
-      <pubDate>Wed, 04 Sep 2024 06:07:08 +0000</pubDate>
-      <guid>//localhost:1313/post/article-4/</guid>
-      <description>Creating Custom React Hooks for Reusable Logic</description>
-    </item>
-    <item>
-      <title>Managing Forms in React: Controlled Components vs. Formik</title>
-      <link>//localhost:1313/post/article-1/</link>
-      <pubDate>Wed, 04 Sep 2024 06:07:08 +0000</pubDate>
-      <guid>//localhost:1313/post/article-1/</guid>
-      <description>Compare traditional controlled components with the Formik library for handling complex form state and validation in React applications.</description>
-    </item>
-    <item>
-      <title>Optimizing React Performance: Memoization and useCallback</title>
-      <link>//localhost:1313/post/article-2/</link>
-      <pubDate>Wed, 04 Sep 2024 06:07:08 +0000</pubDate>
-      <guid>//localhost:1313/post/article-2/</guid>
-      <description>Explore techniques to improve your React app&amp;rsquo;s performance using memoization, the useMemo hook, and the useCallback hook.</description>
-    </item>
-    <item>
-      <title>React Router: Building Single-Page Applications with Dynamic Routing</title>
-      <link>//localhost:1313/post/article-3/</link>
-      <pubDate>Wed, 04 Sep 2024 06:07:08 +0000</pubDate>
-      <guid>//localhost:1313/post/article-3/</guid>
-      <description>Master the art of creating seamless navigation in your React apps using React Router for declarative, component-based routing.</description>
-    </item>
-    <item>
-      <title>React Suspense and Lazy Loading: Improving App Load Times</title>
-      <link>//localhost:1313/post/article-6/</link>
-      <pubDate>Wed, 04 Sep 2024 06:07:08 +0000</pubDate>
-      <guid>//localhost:1313/post/article-6/</guid>
-      <description>Learn how to use React Suspense and lazy loading to split your application code and improve initial load times for a better user experience.</description>
-    </item>
-    <item>
-      <title>Testing React Components: Jest and React Testing Library</title>
-      <link>//localhost:1313/post/article-7/</link>
-      <pubDate>Wed, 04 Sep 2024 06:07:08 +0000</pubDate>
-      <guid>//localhost:1313/post/article-7/</guid>
-      <description>Dive into best practices for testing React components using Jest as a test runner and React Testing Library for component interaction.</description>
-    </item>
   </channel>
 </rss>
