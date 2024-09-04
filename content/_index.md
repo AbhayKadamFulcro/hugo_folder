@@ -1,4 +1,4 @@
 +++
-title = "This is home page title"
+title = "This is a new home page title"
 +++
         
