@@ -6,28 +6,34 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2024 05:48:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 05:59:27 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Managing Forms in React: Controlled Components vs. Formik</title>
-      <link>//localhost:1313/post/article-2/</link>
-      <pubDate>Wed, 04 Sep 2024 05:48:29 +0000</pubDate>
-      <guid>//localhost:1313/post/article-2/</guid>
+      <link>//localhost:1313/post/article-1/</link>
+      <pubDate>Wed, 04 Sep 2024 05:59:27 +0000</pubDate>
+      <guid>//localhost:1313/post/article-1/</guid>
       <description>Compare traditional controlled components with the Formik library for handling complex form state and validation in React applications.</description>
     </item>
     <item>
-      <title>Server-Side Rendering with Next.js and React</title>
-      <link>//localhost:1313/post/article-1/</link>
-      <pubDate>Wed, 04 Sep 2024 05:48:29 +0000</pubDate>
-      <guid>//localhost:1313/post/article-1/</guid>
-      <description>Explore the benefits of server-side rendering and learn how to implement it in your React applications using the Next.js framework.</description>
+      <title>Managing Forms in React: Controlled Components vs. Formik</title>
+      <link>//localhost:1313/post/article-2/</link>
+      <pubDate>Wed, 04 Sep 2024 05:52:54 +0000</pubDate>
+      <guid>//localhost:1313/post/article-2/</guid>
+      <description>ferent approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</description>
+    </item>
+    <item>
+      <title>Optimizing React Performance: Memoization and useCallback</title>
+      <link>//localhost:1313/post/article-4/</link>
+      <pubDate>Wed, 04 Sep 2024 05:52:54 +0000</pubDate>
+      <guid>//localhost:1313/post/article-4/</guid>
+      <description>false +++
+Master the art of creating seamless navigation in your React apps using React Router for declarative, component-based r</description>
     </item>
     <item>
       <title>Styling in React: CSS-in-JS vs. CSS Modules</title>
       <link>//localhost:1313/post/article-3/</link>
-      <pubDate>Wed, 04 Sep 2024 05:48:29 +0000</pubDate>
+      <pubDate>Wed, 04 Sep 2024 05:52:54 +0000</pubDate>
       <guid>//localhost:1313/post/article-3/</guid>
-      <description>Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.</description>
-    </item>
-  </channel>
-</rss>
+      <description>t = false +++
+Explore techniques to improve your React app&amp;rsquo;s performance using memoization, the useMemo hook, and the useCallback hook. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿
