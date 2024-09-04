@@ -1,6 +1,6 @@
 +++
 title = "Testing React Components: Jest and React Testing Library"
-date = "2024-09-04T09:14:04.769Z"
+date = "2024-09-04T09:15:41.567Z"
 draft = false
 +++
 
