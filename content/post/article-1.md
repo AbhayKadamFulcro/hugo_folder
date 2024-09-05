@@ -37,7 +37,7 @@
   "url": "/articles/azure-ai-infrastructure-scaling-ai-workloads-with-cloud-computing/",
   "aliases": [],
   "CreatedDate": "2024-09-05",
-  "UpdatedDate": "2024-09-05T11:52:03.451Z",
+  "UpdatedDate": "2024-09-05T11:53:00.434Z",
   "EnableAMP": "True",
   "layout": "articledetail_v2",
   "DisplayName": "Azure AI Infrastructure Scaling AI Workloads with Cloud Computing",
@@ -159,5 +159,5 @@
   "RelatedProducts": [],
   "FAQs": [],
   "FAQsSchema": null,
-  "ArticleSchema": "\n<script type=\"application/ld+json\">{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Article\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"/articles/azure-ai-infrastructure-scaling-ai-workloads-with-cloud-computing/\"\n  },\n  \"headline\": \"Azure AI Infrastructure Scaling AI Workloads with Cloud Computing\",\n  \"description\": \"null\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"[object Object]\",\n    \"width\": \"683\",\n    \"height\": \"384\"\n  },\n  \"author\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Tata Tele Business Services Ltd.\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Tata Tele Business Services Ltd.\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://www.tatatelebusiness.com/images/logo-black.svg\",\n      \"width\": \"287\",\n      \"height\": \"56\"\n    }\n  },\n  \"datePublished\": \"2024-09-05\",\n  \"dateModified\": \"2024-09-05T11:52:03.451Z\"\n}</script>"
+  "ArticleSchema": "\n<script type=\"application/ld+json\">{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Article\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"/articles/azure-ai-infrastructure-scaling-ai-workloads-with-cloud-computing/\"\n  },\n  \"headline\": \"Azure AI Infrastructure Scaling AI Workloads with Cloud Computing\",\n  \"description\": \"null\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"[object Object]\",\n    \"width\": \"683\",\n    \"height\": \"384\"\n  },\n  \"author\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Tata Tele Business Services Ltd.\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Tata Tele Business Services Ltd.\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://www.tatatelebusiness.com/images/logo-black.svg\",\n      \"width\": \"287\",\n      \"height\": \"56\"\n    }\n  },\n  \"datePublished\": \"2024-09-05\",\n  \"dateModified\": \"2024-09-05T11:53:00.434Z\"\n}</script>"
 }
