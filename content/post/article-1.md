@@ -49,5 +49,6 @@
   "SubBlogReadingTime": null,
   "SubBlogDescription": null,
   "FAQsSchema": null,
-  "FAQs": []
+  "FAQs": [],
+  "Icon": ""
 }
