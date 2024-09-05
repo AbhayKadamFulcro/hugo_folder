@@ -49,5 +49,9 @@
   "SubBlogReadingTime": null,
   "SubBlogDescription": null,
   "FAQsSchema": null,
-  "FAQs": []
+  "FAQs": [],
+  "Icon": {
+    "__typename": "UploadFileEntityResponse",
+    "data": null
+  }
 }
