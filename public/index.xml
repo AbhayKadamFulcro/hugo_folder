@@ -6,6 +6,91 @@
     <description>Recent content in This is Homepage title test on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2024 05:42:24 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Guide to Docker for Beginners</title>
+      <link>//localhost:1313/post/article-12/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-12/</guid>
+      <description>Get started with Docker, understanding containerization and how it simplifies application deployment.</description>
+    </item>
+    <item>
+      <title>An Introduction to CSS-in-JS</title>
+      <link>//localhost:1313/post/article-2/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-2/</guid>
+      <description>Explore CSS-in-JS techniques and how they can streamline your styling process within JavaScript frameworks like React.</description>
+    </item>
+    <item>
+      <title>An Introduction to CSS-in-JS</title>
+      <link>//localhost:1313/post/article-7/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-7/</guid>
+      <description>Explore CSS-in-JS techniques and how they can streamline your styling process within JavaScript frameworks like React.</description>
+    </item>
+    <item>
+      <title>Building Chat Applications with WebSockets</title>
+      <link>//localhost:1313/post/article-4/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-4/</guid>
+      <description>Understand how WebSockets work and how to use them to create real-time chat applications.</description>
+    </item>
+    <item>
+      <title>Enhancing User Experience with Microinteractions</title>
+      <link>//localhost:1313/post/article-11/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-11/</guid>
+      <description>Explore how microinteractions can improve user engagement and create a more intuitive and enjoyable interface.</description>
+    </item>
+    <item>
+      <title>GraphQL vs. REST: Making the Right Choice for Your API</title>
+      <link>//localhost:1313/post/article-3/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-3/</guid>
+      <description>Compare GraphQL and REST, analyzing their strengths and weaknesses to determine which is best for your API needs.</description>
+    </item>
+    <item>
+      <title>How to Use Docker for Local Development</title>
+      <link>//localhost:1313/post/article-1/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-1/</guid>
+      <description>A beginner&amp;rsquo;s guide to setting up Docker for local development environments, enabling consistent workflows across teams.</description>
+    </item>
+    <item>
+      <title>Introduction to Headless CMS: What You Need to Know</title>
+      <link>//localhost:1313/post/article-8/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-8/</guid>
+      <description>Learn about headless CMS, how it differs from traditional CMS, and why it’s becoming popular in modern web development.</description>
+    </item>
+    <item>
+      <title>Test 1</title>
+      <link>//localhost:1313/post/article-10/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-10/</guid>
+      <description>Test 2</description>
+    </item>
+    <item>
+      <title>Test 2</title>
+      <link>//localhost:1313/post/article-9/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-9/</guid>
+      <description>Test 2</description>
+    </item>
+    <item>
+      <title>The Basics of Unit Testing with Jest</title>
+      <link>//localhost:1313/post/article-5/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-5/</guid>
+      <description>Get started with unit testing in JavaScript using Jest, a popular testing framework for React applications.</description>
+    </item>
+    <item>
+      <title>The Role of Caching in Web Development</title>
+      <link>//localhost:1313/post/article-6/</link>
+      <pubDate>Thu, 05 Sep 2024 05:42:24 +0000</pubDate>
+      <guid>//localhost:1313/post/article-6/</guid>
+      <description>Explore caching strategies to improve website performance, including browser caching, CDN caching, and server-side caching.</description>
+    </item>
   </channel>
 </rss>
