@@ -1,6 +1,6 @@
 +++
 title = "The Basics of Unit Testing with Jest"
-date = "2024-09-04T13:41:00.698Z"
+date = "2024-09-05T05:03:53.932Z"
 draft = false
 +++
 

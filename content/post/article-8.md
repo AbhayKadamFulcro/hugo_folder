@@ -1,6 +1,6 @@
 +++
 title = "Introduction to Headless CMS: What You Need to Know"
-date = "2024-09-04T13:41:00.701Z"
+date = "2024-09-05T05:03:53.935Z"
 draft = false
 +++
 
