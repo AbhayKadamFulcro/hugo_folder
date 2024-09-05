@@ -6,6 +6,14 @@
     <description>Recent content in This is Homepage title test on My New Hugo Site</description>
     <generator>Hugo -- 0.124.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2024 06:22:35 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Styling in React: CSS-in-JS vs. CSS Modules</title>
+      <link>//localhost:1313/post/article-1/</link>
+      <pubDate>Thu, 05 Sep 2024 06:22:35 +0000</pubDate>
+      <guid>//localhost:1313/post/article-1/</guid>
+      <description>Explore different approaches to styling React components</description>
+    </item>
   </channel>
 </rss>
