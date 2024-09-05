@@ -55,8 +55,5 @@
   "SubBlogReadingTime": null,
   "SubBlogDescription": null,
   "FAQsSchema": null,
-  "FAQs": {
-    "__typename": "UploadFileRelationResponseCollection",
-    "data": []
-  }
+  "FAQs": []
 }
