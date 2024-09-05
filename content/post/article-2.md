@@ -1,7 +1,7 @@
 ---
 {
   "title": "Enhancing User Experience with Microinteractions",
-  "date": "2024-09-05T06:51:44.217Z",
+  "date": "2024-09-05T06:55:02.368Z",
   "draft": false,
   "description":"Explore how microinteractions can improve user engagement and create a more intuitive and enjoyable interface."
 }
