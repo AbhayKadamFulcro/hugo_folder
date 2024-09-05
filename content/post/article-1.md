@@ -46,10 +46,7 @@
     "__typename": "UploadFileRelationResponseCollection",
     "data": []
   },
-  "RelatedProducts": {
-    "__typename": "UploadFileRelationResponseCollection",
-    "data": []
-  },
+  "RelatedProducts": [],
   "SubBlogTitle": null,
   "SubBlogPublished_Date": null,
   "SubBlogReadingTime": null,
