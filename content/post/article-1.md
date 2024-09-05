@@ -1,8 +1,9 @@
-
+---
 {
-  "title": "Styling in React: CSS-in-JS vs. CSS Modules",
-  "date": "2024-09-05T06:25:39.603Z",
+  "title": "Introduction to Headless CMS: What You Need to Know",
+  "date": "2024-09-05T06:26:26.512Z",
   "draft": false,
-  "description":Explore different approaches to styling React components, comparing popular CSS-in-JS libraries with CSS Modules for modular and scoped styles.
+  "description":"Learn about headless CMS, how it differs from traditional CMS, and why it’s becoming popular in modern web development."
 }
+---
         
