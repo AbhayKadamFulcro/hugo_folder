@@ -5,10 +5,6 @@
   "EnableAMP": false,
   "Title": "Azure AI Infrastructure Scaling AI Workloads with Cloud Computing",
   "ShortText": null,
-  "Icon": {
-    "__typename": "UploadFileEntityResponse",
-    "data": null
-  },
   "CreatedDate": "2024-09-05",
   "ThumbnailDesktop": {
     "URL": "/uploads/desktop_16f5213f6b.jpg",
