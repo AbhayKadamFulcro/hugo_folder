@@ -1,4 +1,5 @@
 {{- define "main" }} 
+<p>test1</p>
 <h1>{{ .Title }}</h1> <!-- Pulls title from _index.md -->
     {{- $pages := union .RegularPages .Sections }} 
     {{- $paginator := .Paginate $pages }} 
